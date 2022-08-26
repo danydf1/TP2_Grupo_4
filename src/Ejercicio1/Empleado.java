@@ -1,4 +1,4 @@
-package Dominio;
+package Ejercicio1;
 
 public class Empleado {
 	// declaracion de variables
